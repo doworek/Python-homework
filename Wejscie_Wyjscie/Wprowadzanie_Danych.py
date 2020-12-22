@@ -1,0 +1,1 @@
+x = input("Please write your name, surname and birth date: ")
