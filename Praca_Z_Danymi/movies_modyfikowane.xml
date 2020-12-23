@@ -1,0 +1,34 @@
+<?xml version="1.0" ?><collection shelf="New Arrivals">
+<movie title="Baby driver">
+   <type>Crime Action, Adventure</type>
+   <format>DVD</format>
+   <year>2017</year>
+   <rating>16+</rating>
+   <stars>10</stars>
+   <description>Smooth-faced getaway driver Baby is a music junkie in deep with a bad dude. He's got just one job left, but it's all about to go sideways.</description>
+</movie>
+<movie title="Transformers">
+   <type>Anime, Science Fiction</type>
+   <format>DVD</format>
+   <year>1989</year>
+   <rating>R</rating>
+   <stars>10</stars>
+   <description>A schientific fiction</description>
+</movie>
+   <movie title="Spirited Away">
+   <type>Anime</type>
+   <format>DVD</format>
+   <year>2001</year>
+   <rating>7+</rating>
+   <stars>10</stars>
+   <description>Chihiro wanders into a magical world where a witch rules -- and those who disobey her are turned into animals.</description>
+</movie>
+<movie title="Ishtar">
+   <type>Comedy</type>
+   <format>VHS</format>
+   <year>1987</year>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Viewable boredom</description>
+</movie>
+</collection>
